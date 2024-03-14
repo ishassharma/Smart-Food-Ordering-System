@@ -1,0 +1,8 @@
+../source/LCD.c:17:6:delay	24	static
+../source/LCD.c:35:6:lcd_init	8	static
+../source/LCD.c:59:6:write_nibble	24	static
+../source/LCD.c:114:6:lcd_Cmd	16	static
+../source/LCD.c:142:6:start_lcd	8	static
+../source/LCD.c:161:6:clear_lcd	8	static
+../source/LCD.c:173:9:lcd_string_write	24	static
+../source/LCD.c:214:6:lcd_data_write	32	static

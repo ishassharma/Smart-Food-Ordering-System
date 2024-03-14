@@ -1,0 +1,10 @@
+../source/screens.c:28:6:welcome_screen	8	static
+../source/screens.c:44:6:cuisine_selection	8	static
+../source/screens.c:63:6:italian_menu	8	static
+../source/screens.c:84:6:pizza_italian	8	static
+../source/screens.c:103:6:pasta_italian	8	static
+../source/screens.c:122:6:indian_menu	8	static
+../source/screens.c:144:6:butter_chicken_indian	8	static
+../source/screens.c:163:6:biyrani_indian	8	static
+../source/screens.c:181:6:final_checkpoint	8	static
+../source/screens.c:197:6:order_confirmation	8	static

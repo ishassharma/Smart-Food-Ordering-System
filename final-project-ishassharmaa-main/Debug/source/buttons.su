@@ -1,0 +1,8 @@
+C:\Users\Isha Sharma\Documents\MCUXpressoIDE_11.6.0_8187\workspace696969\final_project_attempt1\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\Users\Isha Sharma\Documents\MCUXpressoIDE_11.6.0_8187\workspace696969\final_project_attempt1\CMSIS/core_cm0plus.h:756:22:NVIC_DisableIRQ	16	static
+C:\Users\Isha Sharma\Documents\MCUXpressoIDE_11.6.0_8187\workspace696969\final_project_attempt1\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+C:\Users\Isha Sharma\Documents\MCUXpressoIDE_11.6.0_8187\workspace696969\final_project_attempt1\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/buttons.c:33:6:delay_50ms	16	static
+../source/buttons.c:45:6:init_push_buttons	8	static
+../source/buttons.c:87:5:button_flag_checker	16	static
+../source/buttons.c:131:6:PORTA_IRQHandler	8	static

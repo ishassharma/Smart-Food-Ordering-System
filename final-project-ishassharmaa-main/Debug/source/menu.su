@@ -1,0 +1,5 @@
+../source/menu.c:9:6:italian_menu	8	static
+../source/menu.c:14:6:mexican_menu	8	static
+../source/menu.c:18:6:chinese_menu	8	static
+../source/menu.c:22:6:indian_menu	8	static
+../source/menu.c:27:6:korean_menu	8	static
